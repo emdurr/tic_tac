@@ -1,0 +1,37 @@
+body {
+	background-color: lightgreen;
+	color: darkgreen;
+}
+
+.no-display {
+	display: none;
+}
+
+.top_line {
+	border-bottom: 10px solid darkgreen;
+	height: 180px;
+}
+
+.middle_line {
+	border-top: 10px solid darkgreen;
+	border-bottom: 10px solid darkgreen;
+	height: 180px;
+}
+
+.bottom_line {
+	border-top: 10px solid darkgreen;
+	height: 180px;
+}
+
+.left_col {
+	border-right: 10px solid darkgreen;
+}
+
+.mid_col {
+	border-left: 10px solid darkgreen;
+	border-right: 10px solid darkgreen;
+}
+
+.right_col {
+	border-left: 10px solid darkgreen;
+}
